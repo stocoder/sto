@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "stocoder",
+    "email": "[email protected]"
+  },
+  "records": {
+    "NS": ["paige.ns.cloudflare.com", "paige.ns.cloudflare.com"]
+  },
+  "proxied": true
+}
